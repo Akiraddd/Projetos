@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Curriculo Anthony</title>
+</head>
+<body>
+    <!-- Tabela -->
+  <table border="1" width="100%" height="100%">
+      <tr>
+          <td rowspan="3"><img src=""></td>
+          <td><h2 class="contato">Anthony</h2></td>
+      </tr>
+      <tr>
+          <td><h2 class="contato">E-mail: akirafael123@outlook.com</h2></td>
+      </tr>
+      <tr>
+         <td><h2 class="contato">Telefone: (11) 97143-3429</h2></td>
+      </tr>
+      
+      <tr>
+         <td><h3>Soft Skills:</h3>
+            <p>Proatividade</p>
+            <p>Capacidade analítica</p>
+            <p>Comunicação interpessoal</p>
+            <p>Gerenciamento do tempo</p>
+            <p>Positividade</p>
+            <p>Atenção para ouvir</p>
+            <p>Pensamento Criativo</p>
+         </td>
+
+         <td><h3>Objetivo:</h3>
+         <p class="obj"></p>
+         </td>
+      </tr>
+      
+      <tr>
+         <td><h3>Hard Skills:</h3>
+            <p>Conhecimento básico em inglês</p>
+            <p>Formação em TTI</p>
+            <p>Operação de máquinas e sistemas</p>
+            <p>Domínio de CSS</p>
+         </td>
+         
+         <td><h3>Experiência profissional:</h3>
+         <p class="obj"></p>
+         </td>
+      </tr>
+      <tr>
+          <td colspan="2"><h3 class="eventos">Publicações, palestras, eventos</h3></td>
+      </tr>
+      <tr>
+          <td colspan="2"><a href="index.html"><h3 class="voltar"><-- Início</h3></a></td>
+      </tr>
+  </table>
+</body>
+</html>
