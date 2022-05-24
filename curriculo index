@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>CURRICULOS</title>
+</head>
+<body>
+  <div class="titulo">CURRÍCULOS</div>
+  <!--curriculo rafael-->
+  <a href="curriculo rafael.html"><img src="rafael.png"></a>
+  <a href="curriculo rafael.html"><h2 class="nome">Rafael Akira de Oliveira</h2></a>
+
+  <!--curriculo anthony-->
+  <a href="curriculo anthony.html"><img src="rafael.png"></a>
+  <a href="curriculo anthony.html"><h2 class="nome">Anthony</h2></a>
+
+  <!--curriculo ronan-->
+  <a href="curriculo ronan.html"><img src="rafael.png"></a>
+  <a href="curriculo ronan.html"><h2 class="nome">Ronan</h2></a>
+</body>
+</html>
