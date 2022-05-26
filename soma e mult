@@ -1,0 +1,36 @@
+#include <stdio.h>
+int main (){
+	
+	int a, b, c, d, soma1, soma2, soma3, soma4, soma5, soma6, mult1, mult2, mult3, mult4, mult5, mult6;
+		printf ("Digite quatro numeros para serem somados entre si:\n");
+		scanf ("%d%d%d%d", &a, &b, &c, &d);
+		soma1 = (a+b);
+		soma2 = (a+c);
+		soma3 = (a+d);
+		soma4 = (b+c);
+		soma5 = (b+d);
+		soma6 = (d+c);
+		printf ("Resultado e igual: %d\n", soma1);
+		printf ("Resultado e igual: %d\n", soma2);
+		printf ("Resultado e igual: %d\n", soma3);
+		printf ("Resultado e igual: %d\n", soma4);
+		printf ("Resultado e igual: %d\n", soma5);
+		printf ("Resultado e igual: %d\n", soma6);
+		printf  ("\nDigite quatro numeros para serem multiplicados ente si:\n");
+		scanf ("%d%d%d%d", &a, &b, &c, &d);
+		mult1 = (a*b);
+		mult2 = (a*c);
+		mult3 = (a*d);
+		mult4 = (b*c);
+		mult5 = (b*d);
+		mult6 = (d*c);
+		printf ("Resultado e igual: %d\n", mult1);
+		printf ("Resultado e igual: %d\n", mult2);
+		printf ("Resultado e igual: %d\n", mult3);
+		printf ("Resultado e igual: %d\n", mult4);
+		printf ("Resultado e igual: %d\n", mult5);
+		printf ("Resultado e igual: %d\n", mult6);
+		
+		
+
+}
